@@ -1,0 +1,7 @@
+background-color=$overlay
+text-color=$text
+border-color=$highlightHigh
+progress-color=over $pine
+
+[urgency=high]
+border-color=$love
