@@ -29,6 +29,8 @@
 
 ![Rosé Pine](images/rose-pine-dawn.png)
 
+The website I used to push notifications to myself can be found [here](https://www.bennish.net/web-notifications.html).
+
 ## Thanks to
 
 - [Ondřej Staněk](https://github.com/stanekondrej)
