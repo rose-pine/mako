@@ -39,10 +39,6 @@ The website I used to push notifications to myself can be found [here](https://w
 
 Modify template.theme, then build variants:
 
-```bash
-npx @rose-pine/build@latest -t template.theme -o theme
-```
-
 <!-- #rose-pine-build -->
 
 ```sh
