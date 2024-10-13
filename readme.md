@@ -19,15 +19,17 @@
 
 ### Rosé Pine
 
-![Rosé Pine](images/rose-pine.png)
+![Rosé Pine](https://github.com/user-attachments/assets/502e2064-5980-4a8d-9d86-e13b2c106405)
 
 ### Rosé Pine Moon
 
-![Rosé Pine](images/rose-pine-moon.png)
+![Rosé Pine Moon](https://github.com/user-attachments/assets/0a895f03-88c3-489f-acc3-8d1ff6eeffa8)
+
 
 ### Rosé Pine Dawn
 
-![Rosé Pine](images/rose-pine-dawn.png)
+![Rosé Pine Dawn](https://github.com/user-attachments/assets/48e97800-406e-4be6-b473-d21c833ddcdf)
+
 
 The website I used to push notifications to myself can be found [here](https://www.bennish.net/web-notifications.html).
 
